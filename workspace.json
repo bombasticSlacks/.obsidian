@@ -1,0 +1,428 @@
+{
+  "main": {
+    "id": "4358fc3e972e8c05",
+    "type": "split",
+    "children": [
+      {
+        "id": "152680c1032a0e84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d734b7c4ddd8ab8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Bellator/Sessions/0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b4ea8a23c772983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Core/Weapon-Traits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3a789c5e62c06cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Core/Effects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f9a06fe4ae90d6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Blocks/Painkillers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aabab986be48e7db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Gear-List.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b297a321b8bb2177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Core/Gear.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44b52a837838de14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Blocks/Stasis-Injector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fee1daf5bcbdce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Core/Gear.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "aa84e5d316a4ba64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "222dcca962939347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Core/Character-Actions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b96f05cac9605766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Sleuth.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f7f59a7222d4a7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Blocks/Break-Action-Driver.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "583dffdc05b22ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Core/Weapon-Traits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f16b5a664968ee9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Specialization-List.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b959acbf0e190fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Weapons-List.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "96f387543ff9d54d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Gear-List.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f8c02ba8449cd62e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Armour-List.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "28a90e150b9c3507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Specialization-List.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d05c5c704b87a28a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fcbbc0b12675189",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21ede774ccd5746d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fbcbf150b4ef282",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "boiling",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b344f50c0b9df577",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "cdb3050652645574",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4f217b48abe5076",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f907f9e361fdf39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Game/Bellator/Sessions/0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2c1f856ced348f2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Game/Bellator/Sessions/0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70a5d9c6c73e58c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ff19262e4ca5b94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game/Bellator/Sessions/0.md"
+              }
+            }
+          },
+          {
+            "id": "d2425e327d2894dc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "80bfbdffa487f2b0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "7e2a9c6c6734b388",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Game/Bellator/Sessions/0.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d734b7c4ddd8ab8c",
+  "lastOpenFiles": [
+    "Game/Creatures/Mass-Zombie.md",
+    "Game/Creatures/Mass-Fragment.md",
+    "Game/Core/Blocks/Spore-Cloud.md",
+    "Game/Black-Mass-Creatures.md",
+    "Templates/Elite.template.md",
+    "Game/Core/Blocks/Reaction.md",
+    "Game/Core/Blocks/Attack.md",
+    "Game/Core/Blocks/Grapple.md",
+    "Game/Core/Character-Actions.md",
+    "Templates/Fodder.template.md",
+    "Game/Hostile-Groups.md",
+    "Game/Bellator/Sessions/0.md",
+    "Game/Creatures",
+    "Templates/Session.template.md",
+    "Game/Bellator/Deployments.md",
+    "Game/Station-Layouts.md",
+    "Game/Blocks/Spoke.md",
+    "Game/Blocks/Ablative-Armour.md",
+    "Game/Core/Effects.md",
+    "Game/Core/Weapon-Traits.md",
+    "Game/Blocks/Break-Action-Driver.md",
+    "Game/Bellator/Sessions",
+    "Game/Prole.md",
+    "Templates/Player-Character.template.md",
+    "Game/Bellator/Characters/Love-Joi.md",
+    "Game/Bellator/Players/Dietrich.md",
+    "Game/Bellator/Characters/Edwin-Price.md",
+    "Game/Bellator/Characters/Levi-Sunsworth.md",
+    "Game/Bellator/Players",
+    "Game/Bellator/Characters",
+    "Game/Bellator",
+    "Game/Games/Bellator/Characters",
+    "Game/Games/Bellator",
+    "Game/Games",
+    "Game/Content/Character-Sheet.svg",
+    "Game/Core/Blocks",
+    "replace.py",
+    "Game/Content/Dark-Hallway-Of-Doom.svg",
+    "Game/Core/Content/Cauldron.svg",
+    "Game/Core/Content/dice-icons.svg",
+    "Game/Core/Content/Bonfire.svg",
+    "Game/--name/Content/dice-icons.svg",
+    "Game/--name/Content/Cauldron.svg",
+    "Game/--name/Content/Bonfire.svg",
+    "Game/core/Content/dice-icons.svg",
+    "Game/core/Content/Cauldron.svg",
+    "Untitled.canvas"
+  ]
+}
