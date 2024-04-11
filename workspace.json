@@ -4,217 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "152680c1032a0e84",
+        "id": "bb9b6b518d06f618",
         "type": "tabs",
         "children": [
           {
-            "id": "d734b7c4ddd8ab8c",
+            "id": "6638b0fb24c93226",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Bellator/Sessions/0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b4ea8a23c772983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Core/Weapon-Traits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3a789c5e62c06cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Core/Effects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f9a06fe4ae90d6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Blocks/Painkillers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aabab986be48e7db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Gear-List.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b297a321b8bb2177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Core/Gear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44b52a837838de14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Blocks/Stasis-Injector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fee1daf5bcbdce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Core/Gear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "aa84e5d316a4ba64",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "222dcca962939347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Core/Character-Actions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b96f05cac9605766",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Sleuth.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f7f59a7222d4a7d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Blocks/Break-Action-Driver.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "583dffdc05b22ce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Core/Weapon-Traits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f16b5a664968ee9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Specialization-List.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b959acbf0e190fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Weapons-List.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "96f387543ff9d54d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Gear-List.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f8c02ba8449cd62e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Armour-List.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "28a90e150b9c3507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/Specialization-List.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -283,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game/Bellator/Sessions/0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game/Bellator/Sessions/0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game/Bellator/Sessions/0.md"
-              }
+              "state": {}
             }
           },
           {
@@ -352,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Game/Bellator/Sessions/0.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -375,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d734b7c4ddd8ab8c",
+  "active": "6638b0fb24c93226",
   "lastOpenFiles": [
+    "Game/Bellator/Sessions/0.md",
     "Game/Creatures/Mass-Zombie.md",
     "Game/Creatures/Mass-Fragment.md",
     "Game/Core/Blocks/Spore-Cloud.md",
@@ -388,7 +181,6 @@
     "Game/Core/Character-Actions.md",
     "Templates/Fodder.template.md",
     "Game/Hostile-Groups.md",
-    "Game/Bellator/Sessions/0.md",
     "Game/Creatures",
     "Templates/Session.template.md",
     "Game/Bellator/Deployments.md",

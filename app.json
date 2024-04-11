@@ -50,6 +50,6 @@
     "downscalePercent": 75
   },
   "focusNewTab": true,
-  "vimMode": true,
+  "vimMode": false,
   "autoPairMarkdown": false
 }
